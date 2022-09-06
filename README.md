@@ -9,3 +9,7 @@ Link: [DashBoard Tableau](https://public.tableau.com/views/Covid_Mundial/Dashboa
 - Tabla_3
 - Tabla_4
 - Covid__Mundo.sql (Queries)
+
+## IMAGEN
+
+![Dashboard](https://github.com/qarlosbaldovino/COVID_TABLEAU/blob/master/DashboardIMG.png?raw=true)
